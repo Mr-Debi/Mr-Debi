@@ -1,6 +1,7 @@
 <img align="center" alt="banner" width="auto" src="https://hub.fullsail.edu/assets/ext/share/key-careers-in-art-animation-and-design-a-beginners-guide-share.jpg" >
 <h1 align="center">Hi 👋, I'm Debidutta Behera</h1>
 <h3 align="center">A passionate Software Engineer from India.</h3>
+<img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 
 - 🌱 I’m currently learning **React**
 
@@ -8,7 +9,6 @@
 
 - ⚡ Fun fact **I am Funny😁**
 
-<img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
