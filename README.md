@@ -1,4 +1,4 @@
-<img align="center" alt="banner" width="800" src="https://hub.fullsail.edu/assets/ext/share/key-careers-in-art-animation-and-design-a-beginners-guide-share.jpg" >
+<img align="center" alt="banner" width="auto" src="https://hub.fullsail.edu/assets/ext/share/key-careers-in-art-animation-and-design-a-beginners-guide-share.jpg" >
 <h1 align="center">Hi 👋, I'm Debidutta Behera</h1>
 <h3 align="center">A passionate Software Engineer from India.</h3>
 
