@@ -1,5 +1,11 @@
-<img align="center" alt="banner" width="auto" src="https://www.canva.com/design/DAF-iqFIocs/qAv1HscHQwbMPow1DyLMEQ/watch" >
-
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF-iqFIocs&#x2F;qAv1HscHQwbMPow1DyLMEQ&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF-iqFIocs&#x2F;qAv1HscHQwbMPow1DyLMEQ&#x2F;watch?utm_content=DAF-iqFIocs&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Design</a> by Lipun DEBIDUTTA
 //<img align="center" alt="banner" width="auto" src="https://hub.fullsail.edu/assets/ext/share/key-careers-in-art-animation-and-design-a-beginners-guide-share.jpg" >//
 <h1 align="center">Hi 👋, I'm Debidutta Behera</h1>
 <h3 align="center">A passionate Software Engineer from India.</h3>
