@@ -56,8 +56,8 @@
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,javascript,php,html,css,fastapi,django,flask" />
 <img src="https://skillicons.dev/icons?i=react,vite,bootstrap" />
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,selenium" />
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,vscode,sublime," />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,selenium,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,vscode,sublime" />
 </p>
 <p align="left">
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
