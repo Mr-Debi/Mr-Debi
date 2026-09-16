@@ -12,7 +12,7 @@
 
 <a href="https://portfolio-debidutta.vercel.app/"> <img src="https://img.shields.io/badge/%E2%96%B6%20ENTER%20PORTFOLIO-06b6d4?style=for-the-badge&labelColor=020617"/> </a>
 
-<a href="https://www.linkedin.com/in/debidutta-behera/"> <img src="https://img.shields.io/badge/%E2%96%B6%20LINKEDIN-2563eb?style=for-the-badge&labelColor=020617"/> </a>
+<a href="https://www.linkedin.com/in/debiduttabehera/"> <img src="https://img.shields.io/badge/%E2%96%B6%20LINKEDIN-2563eb?style=for-the-badge&labelColor=020617"/> </a>
 
 </div>
 
@@ -35,7 +35,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/debidutta-behera-164642275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debidutta-behera-164642275" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/debiduttabehera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debiduttabehera" height="30" width="40" /></a>
 <a href="https://instagram.com/mr.debi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.debi_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@debidutta_db" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@debidutta_db" height="30" width="40" /></a>
 </p>
