@@ -51,6 +51,32 @@
 	<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 	<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 </p>
+
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask" />
+<img src="https://skillicons.dev/icons?i=react,vite,bootstrap" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,vscode" />
+</p>
+<p align="left">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Copilot-5E5CE6?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-debi&show_icons=true&locale=en&layout=compact" alt="mr-debi" /></p> -->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-debi&show_icons=true&locale=en" alt="mr-debi" /></p> -->
