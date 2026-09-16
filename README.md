@@ -1,7 +1,29 @@
 <!-- <img align="center" alt="banner" width="auto" src="https://hub.fullsail.edu/assets/ext/share/key-careers-in-art-animation-and-design-a-beginners-guide-share.jpg" > -->
 <img align="center" alt="banner" width="auto" src="https://github.com/Mr-Debi/codePen_Assets/blob/main/profile_banner.png" >
-<h1 align="center">Hi 👋, I'm Debidutta Behera</h1>
-<h3 align="center">A passionate Software Engineer from India.</h3>
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=DEBIDUTTA%20BEHERA&fontAlign=50&fontAlignY=40&fontSize=48&fontColor=ffffff&desc=SOFTWARE%20ENGINEER%20%7C%20PYTHON%20%7C%20FASTAPI%20%7C%20REACT%20%7C%20AI-READY%20BACKEND&descAlign=50&descAlignY=62&descSize=16&animation=fadeIn&color=0:020617,50:111827,100:312e81" width="100%"/>
+
+// SOFTWARE ENGINEER • BACKEND ARCHITECT • FULL-STACK BUILDER //
+
+<p> <img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-00d4ff?style=flat-square&labelColor=020617"/> <img src="https://img.shields.io/badge/EXPERIENCE-4%20YEARS-7c3aed?style=flat-square&labelColor=020617"/> <img src="https://img.shields.io/badge/LOCATION-ODISHA%2C%20INDIA-22c55e?style=flat-square&labelColor=020617"/> </p>
+
+<a href="https://portfolio-debidutta.vercel.app/"> <img src="https://img.shields.io/badge/%E2%96%B6%20ENTER%20PORTFOLIO-06b6d4?style=for-the-badge&labelColor=020617"/> </a>
+
+<a href="https://www.linkedin.com/in/debidutta-behera/"> <img src="https://img.shields.io/badge/%E2%96%B6%20LINKEDIN-2563eb?style=for-the-badge&labelColor=020617"/> </a>
+
+</div>
+
+
+
+<!-- <h1 align="center">Hi 👋, I'm Debidutta Behera</h1>
+<h3 align="center">A passionate Software Engineer from India.</h3> -->
+
+
+
+
 <img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 
 - 🌱 I’m currently learning **AI**
