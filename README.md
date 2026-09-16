@@ -1,5 +1,5 @@
 <!-- <img align="center" alt="banner" width="auto" src="https://hub.fullsail.edu/assets/ext/share/key-careers-in-art-animation-and-design-a-beginners-guide-share.jpg" > -->
-<img align="center" alt="banner" width="auto" src="https://github.com/Mr-Debi/codePen_Assets/blob/main/profile_banner.png" >
+<!-- <img align="center" alt="banner" width="auto" src="https://github.com/Mr-Debi/codePen_Assets/blob/main/profile_banner.png" > -->
 
 
 <div align="center">
