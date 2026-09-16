@@ -4,9 +4,9 @@
 <h3 align="center">A passionate Software Engineer from India.</h3>
 <img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **AI**
 
-- 📫 How to reach me **debidutta.db@gmail.com**
+- 📫 How to reach me **debiduttabehera5@gmail.com**
 
 - ⚡ Fun fact **I am Funny😁**
 
